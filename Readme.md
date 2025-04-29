@@ -30,7 +30,8 @@ Artikel ini telah dicek menggunakan Turnitin dengan hasil sebagai berikut:
 - 📝 **Judul File**: `Pemrograman web.pdf`  
 - 📅 **Tanggal Upload**: 29 April 2025  
 - 📈 **Screenshot**:  
-  ![5% Green - Turnitin](./Screenshot%202025-04-29%20142014.png)
+  ![5% Green - Turnitin]![Screenshot 2025-04-29 142014](https://github.com/user-attachments/assets/2564ff07-a5ce-42d1-a89f-c4eb6ba061d5)
+
 
 ## 📦 Teknologi Terkait
 
